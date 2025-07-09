@@ -61,7 +61,7 @@ A multi-page Power BI dashboard was created, covering:
 
 ### Overview
 
-![Overview](./Images/Overview.jpg)
+![Overview](../Images/Overview.jpg)
 
 ### Risk Factor
 
