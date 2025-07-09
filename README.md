@@ -61,19 +61,19 @@ A multi-page Power BI dashboard was created, covering:
 
 ### Overview
 
-![Overview](../Images/Overview.jpg)
+![Overview](./images/Overview.jpg)
 
 ### Risk Factor
 
-![Risk Factor](./Images/risk%20factor.jpg)
+![Risk Factor](./images/risk%20factor.jpg)
 
 ### Applicant Profile
 
-![Applicant Profile](./Images/Applicant%20profile.jpg)
+![Applicant Profile](./images/Applicant%20profile.jpg)
 
 ### Loan Details
 
-![Loan Details](./Images/loan.jpg)
+![Loan Details](./images/loan.jpg)
 
 ---
 
